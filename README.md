@@ -12,7 +12,7 @@ Estos Notebooks contienen ekercicios usados en el [ML Crash Course](https://docs
 
 ## Clase en vivo
 
-- Clase en vivo de Machine Learining y uso de Notebooks
+* [Clase en vivo de Machine Learining y uso de Notebooks](https://web.microsoftstream.com/video/e3dcca65-f9b4-434c-a904-b8ecd8dea1b1)
 
 ### Comenzando a usar los Notebooks
 
